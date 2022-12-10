@@ -1,4 +1,5 @@
 def my_superfunction():
+    #YandexLyceum
     print('What an awesome print!')
 
 
